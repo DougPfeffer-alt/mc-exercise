@@ -11,10 +11,16 @@
 
 FUBAR FUBAR FUBAR
 
-<<<<<<< HEAD
+
+# louis
+- New feature
+
 This is the new feature, which no one likes...it is silly
-=======
+
 Ted felt it before he heard it, "FUBAR" the voice called...
->>>>>>> ddd4f446869b4d79f70dddb87e210aa8b76b3071
+bob_branch_2
+
 
 New Bob Branch.....same crappy feature...
+=======
+
