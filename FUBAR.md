@@ -1,3 +1,6 @@
+ new-b
+- just we try list of somthing
+=======
 # FUBUAR.md File
 
 ## Ted's Branch (Mike)
@@ -30,3 +33,4 @@ New Bob Branch.....same crappy feature...
     + He bought a box of Fruit-Loops based off the box art.
     + Bob found a racing decal he had never noticed before..."maybe this would look good on my back windshield...", he contemplated. 
 
+master
