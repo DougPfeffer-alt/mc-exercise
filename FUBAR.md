@@ -8,3 +8,6 @@
     + Sunsets are a bit too "flashy" for Ted.
     + The even taste of wheat-bran never fails him...
     + Ted repainted his old red saturn to beige, a much more 'profesional' color.
+
+FUBAR FUBAR FUBAR
+
