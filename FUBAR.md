@@ -11,5 +11,13 @@
 
 FUBAR FUBAR FUBAR
 
+<<<<<<< HEAD
 # louis
 - New feature
+=======
+<<<<<<< HEAD
+This is the new feature, which no one likes...it is silly
+=======
+Ted felt it before he heard it, "FUBAR" the voice called...
+>>>>>>> ddd4f446869b4d79f70dddb87e210aa8b76b3071
+>>>>>>> 9e26ad82eccb54e7fca6b2769803f8cb112003a1
